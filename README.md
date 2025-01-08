@@ -1,5 +1,5 @@
 ## Annual Goals
 
-[2025](blob/main/2025.md)
+[2025](2025.md)
 
-[2024](blob/main/2024.md)
+[2024](2024.md)
